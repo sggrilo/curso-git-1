@@ -1,4 +1,4 @@
 # curso-git
-Repositório para a Prática de Git
+Repositório para a prática de Git.
 
-Linha nova
+Linha nova.
